@@ -2,7 +2,11 @@
 
 # Song Tag
 
-**🎵 An AI-powered mp3 tag editor and media player for Windows and Linux that automatically updates ID3 metadata for mp3 files. Modernize your mp3 collection.**
+**An MP3 tag editor 🎵 for Windows and Linux that automatically edits ID3 metadata for audio files. It helps organize and modernize your music collection. ⚡**
+
+Modernize and organize your music collection by fixing and enhancing song tags automatically.
+
+This tool acts as a music metadata editor that processes MP3 files while you play 🎧 them. Features include:
 
 <table>
   <tr>
@@ -13,12 +17,12 @@
     </td>
     <td valign="top">
       <ul>
-        <li>Convert or create ID3v2.4 metatags for files with old or no metatags.</li>
-        <li>Artificial Intelligence guesses from filenames which part is the artist and album.</li>
-        <li>Fetches album art, lyrics, genre and year online.</li>
-        <li>Metatag Editor.</li>
+        <li>Convert or create ID3v2.4 tags 🏷️ for files with missing or outdated metadata </li>
+        <li>AI-powered filename parsing 🤖 to detect artist, album, and title </li>
+        <li>etch album art 🖼️, lyrics 🎤, genre 🎼, and year 📅 from online sources</li>
+        <li>Built-in MP3 tag editor ✏️ for manual metadata editing</li>
       </ul>
-      <p>Unprocessed songs display in red, while processed songs appear in bold dark green.</p>
+      <p>Unprocessed songs are shown in red 🔴, while processed songs appear in bold dark green. 🟢</p>
     </td>
   </tr>
 </table>
