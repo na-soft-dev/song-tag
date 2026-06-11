@@ -1,0 +1,18 @@
+[0.91] 2025-02-01
+
+* Fetch genre, year from online services and save them to the mp3 file's metatags as well
+* Fixed bug on Linux that didn't allow to use system's default browser to open links
+* First version distributed to the public
+
+---
+
+[0.89] 2025-01-24
+
+* Statistics with pie charts added
+
+---
+
+[0.85] 2025-01-18
+
+* Metatag editor added
+* Fetch lyrics online added
