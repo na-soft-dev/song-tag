@@ -1,6 +1,6 @@
 # Song Tag
 
-# 🎵 A free AI-powered mp3 media player for Windows and Linux. Automatically updates metadata. Modernize your mp3 collection.
+**🎵 A free AI-powered mp3 media player for Windows and Linux. Automatically updates metadata. Modernize your mp3 collection.**
 
 <p align="center">
   <img width="350" alt="cover" src="https://github.com/user-attachments/assets/765fd3cf-e9e7-4f2e-b6fc-228fe92e7b2f" />
