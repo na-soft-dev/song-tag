@@ -29,8 +29,9 @@ This tool acts as a music metadata editor that processes MP3 files while you pla
 
 ## 🖼️ Screenshots
 
-| Conversion to latest metadata version, AI's prediction | Metatag Editor |
+|  |  |
 | :-: | :-: |
+| Conversion to latest metadata version, AI's prediction | Metatag Editor |
 | <img width="450" alt="screenshot 1" src="https://github.com/user-attachments/assets/5f13788c-7de3-4db4-84aa-97325b5b1fce" /> | <img width="450" alt="screenshot 2" src="https://github.com/user-attachments/assets/0fd539af-4fe8-49d0-91c5-6e7598caa908" /> |
 | Statistics | File Explorer thumbnails before & after Song Tag |
 | <img width="450" alt="screenshot 3" src="https://github.com/user-attachments/assets/ec158e2d-d803-41a8-a018-cb185309bd06" /> | <img width="450" alt="screenshot 4" src="https://github.com/user-attachments/assets/66f31342-b773-4027-b554-918363e40bfb" /> |
