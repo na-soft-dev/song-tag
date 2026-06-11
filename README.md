@@ -2,7 +2,7 @@
 
 # Song Tag
 
-**🎵 A free AI-powered mp3 media player for Windows and Linux. Automatically updates metadata. Modernize your mp3 collection.**
+**🎵 An AI-powered mp3 tag editor and media player for Windows and Linux that automatically updates ID3 metadata for mp3 files. Modernize your mp3 collection.**
 
 <table>
   <tr>
