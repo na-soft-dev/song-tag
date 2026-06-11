@@ -40,7 +40,7 @@ This tool acts as a music metadata editor that processes MP3 files while you pla
 
 Song Tag is distributed as a secure, standalone binary. Click the link below to download the latest version for Linux or Windows:
 
-👉 **[Download Filepath Hunter on itch.io](https://na-soft-dev.itch.io/song-tag)**
+👉 **[Download Song Tag on itch.io](https://na-soft-dev.itch.io/song-tag)**
 
 ## 🛠️ Setup & Usage
 
