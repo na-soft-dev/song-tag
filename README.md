@@ -1,19 +1,27 @@
+<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/ee15c5c6-e9f4-49de-a6f7-c18970e839bc" />
+
 # Song Tag
 
 **🎵 A free AI-powered mp3 media player for Windows and Linux. Automatically updates metadata. Modernize your mp3 collection.**
 
-<p align="center">
-  <img width="350" alt="cover" src="https://github.com/user-attachments/assets/765fd3cf-e9e7-4f2e-b6fc-228fe92e7b2f" />
-</p>
-
-This program automatically updates mp3 songs in many ways while playing, some of the features are:
-
-* Convert or create ID3v2.4 metatags for files with old or no metatags.
-* Artificial Intelligence guesses from filenames which part is the artist and album.
-* Fetches album art, lyrics, genre and year online.
-* Metatag Editor.
-
-Unprocessed songs display in red, while processed songs appear in bold dark green.
+<table>
+  <tr>
+    <td valign="top" width="220">
+      <p align="center">
+        <img width="165" alt="cover" src="https://github.com/user-attachments/assets/765fd3cf-e9e7-4f2e-b6fc-228fe92e7b2f" />
+      </p>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Convert or create ID3v2.4 metatags for files with old or no metatags.</li>
+        <li>Artificial Intelligence guesses from filenames which part is the artist and album.</li>
+        <li>Fetches album art, lyrics, genre and year online.</li>
+        <li>Metatag Editor.</li>
+      </ul>
+      <p>Unprocessed songs display in red, while processed songs appear in bold dark green.</p>
+    </td>
+  </tr>
+</table>
 
 ## 🖼️ Screenshots
 
